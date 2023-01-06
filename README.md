@@ -21,13 +21,6 @@ This project aims to use natural language processing (NLP) and sentiment analysi
 
 - Python 3.9
 - numpy
-- Re
-
-## Requirement
-
-- Python 3.9
-- numpy
-- Re
 
 ## Methodology
 
